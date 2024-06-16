@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RubenVBarros, a junior web developer currently working in Strasbourg, France.
-- 🌱 I’m currently learning Angular with my work in web developement, on Laravel too and i'm surely going to learn Vue.js
-- 📫 You can reach me on my mail adresse rubenvenancio67@gmail.com
+- 👋 Hi, I’m @RubenVBarros, a junior fullstack developer currently searching for work in Strasbourg, France.
+- 🌱 I have experience on Angular and on Laravel too and i'm learning Vue.js
+- 📫 You can reach me on my mail address rubenvenancio67@gmail.com
 
 <!---
 RubenVBarros/RubenVBarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
