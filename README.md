@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RubenVBarros, a junior fullstack developer currently searching for work in Strasbourg, France.
-- 🌱 I have experience on Angular and on Laravel too and i'm learning Vue.js
+- 🌱 I have experience on Angular, ReactJS, VueJS and on Laravel too
 - 📫 You can reach me on my mail address rubenvenancio67@gmail.com
 
 <!---
